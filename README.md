@@ -5,7 +5,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ## Tools Required
 ### Cadence Virtuoso Suite
-- **Virtuoso Schematic Editor** (for circuit design)
+- **Virtuoso Schematic Editor** (for circuit design) 
 - **Spectre Simulator** (for circuit simulation)
 
 ### Process Design Kit (PDK)
